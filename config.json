@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-persistence-fastapi",
+      "title": "SQLite Persistence with FastAPI",
+      "description": "Store and manage FastAPI task data in a persistent SQLite database",
+      "path": "assignments/sqlite-persistence-fastapi",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
